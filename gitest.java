@@ -1,1 +1,7 @@
-public class gitest{public static void main(String args[])System.out.println("hellogit");}}
+public class gitest
+{
+public static void main(String args[])
+{
+System.out.println("hellogit");
+}
+}
