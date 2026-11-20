@@ -7,7 +7,7 @@ class second
         {
           for(int j =1; j <= i; j++)
             {
-              System.out.println("s");
+              System.out.print("s");
             }
           System.out.println("\n");
         }
